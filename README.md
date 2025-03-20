@@ -1,16 +1,20 @@
-## Hi there 👋
+ 👋 Hey there, I'm Adekanmi Mojirade!  
 
-<!--
-**Mojirade18/Mojirade18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Tech Enthusiast | Hardware & Robotics Learner | Problem-Solver  
 
-Here are some ideas to get you started:
+I’m passionate about building things that matter, whether it’s crafting innovative Arduino projects, diving into C++ programming, or exploring how hardware interacts with the world. With a background in administrative support, I bring structure to my learning while embracing the creative side of technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 What I'm Working On    
+🔹 Environmental Monitoring System – An Arduino-powered system to detect harmful gases.  
+🔹 Exploring circuit design and embedded systems to bring my ideas to life.  
+
+ 🛠 Tech Stack  
+- 🔹 Languages: C++, Python  
+- 🔹 Hardware: Arduino, Sensors, IoT  
+- 🔹 Tools:Tinkercad, VS Code  
+- 🔹 Other Interests: Automation, Electronics, Problem-Solving  
+
+
+ 📬 Let's Connect!  
+🌍 Always open to learning and collaboration. Let’s build something awesome together!  
+https://www.linkedin.com/in/mojirade-adekanmi-971a05248/ | 09016800091  
