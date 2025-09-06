@@ -41,6 +41,5 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- 🌐 [Portfolio](https://YOUR-SITE)  
-- 📩 **Email:** your@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mojirade-adekanmi-971a05248/)    
+- 📩 **Email:** mojiradeoluranti@gmail.com 
