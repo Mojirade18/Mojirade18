@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Computer Engineer | Cybersecurity Enthusiast | C++ & Arduino Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mojirade18&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mojirade18&label=Profile%20Views&color=orange&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -12,13 +12,13 @@
 <div align="center">
 
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mojirade18&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mojirade18&show_icons=true&count_private=true&theme=swift" alt="GitHub stats" />
 
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Mojirade18&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mojirade18&theme=swift" alt="GitHub Streak" />
 
   <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&theme=swift" alt="Top Languages" />
 
 </div>
 
@@ -27,7 +27,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mojirade18&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mojirade18&theme=flat&no-frame=true&row=1&margin-w=15" alt="Trophies" />
 </div>
 
 ---
