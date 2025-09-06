@@ -27,7 +27,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mojirade18&theme=flat&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mojirade18&theme=gruvbox&no-frame=true&row=1&margin-w=15" alt="Trophies" />
 </div>
 
 ---
