@@ -7,7 +7,7 @@
 - 🔐 Exploring **Cybersecurity & Ethical Hacking**  
 - 💻 Building projects with **C++ and Arduino**  
 - 🤝 Passionate about **teaching, open-source collaboration, and continuous learning**  
-- 🌱 Expanding into **Robotics, Microsoft Word mastery, and Game Development**  
+- 🌱 Expanding into **Robotics and Prompt Engineering**  
 
 ---
 
