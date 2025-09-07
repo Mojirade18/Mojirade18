@@ -14,11 +14,11 @@
 ## 📂 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/Mojirade18/Embedded-system.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mojirade18&repo=PocketTracer&theme=solarized-light" />
+  <a href="https://github.com/Mojirade18/Embedded-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mojirade18&repo=Embedded-system&theme=solarized-light" />
   </a>
-  <a href="https://github.com/Mojirade18/LearnLink.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mojirade18&repo=Environmental-Monitoring-System&theme=solarized-light" />
+  <a href="https://github.com/Mojirade18/LearnLink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mojirade18&repo=LearnLink&theme=solarized-light" />
   </a>
 </p>
 
