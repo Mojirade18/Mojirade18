@@ -41,6 +41,12 @@
 
 ---
 
+## 🪄 Holopin Badges  
+
+[![@mojirade18's Holopin board](https://holopin.me/mojirade18)](https://holopin.io/@mojirade18)
+
+---
+
 ## 🔗 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mojirade-adekanmi-971a05248/)  
 - 📩 **Email:** [mojiradeoluranti@gmail.com](mailto:mojiradeoluranti@gmail.com)  
