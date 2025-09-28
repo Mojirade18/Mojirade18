@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://github.com/Mojirade18/Embedded-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mojirade18&repo=Embedded-system&theme=solarized-light" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mojirade18&repo=Embedded-system&theme=solarized-light" />
   </a>
   <a href="https://github.com/Mojirade18/LearnLink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mojirade18&repo=LearnLink&theme=solarized-light" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mojirade18&repo=LearnLink&theme=solarized-light" />
   </a>
 </p>
 
@@ -29,13 +29,13 @@
 <div align="center">
 
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mojirade18&show_icons=true&count_private=true&theme=solarized-light" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mojirade18&show_icons=true&count_private=true&theme=solarized-light" alt="GitHub stats" />
 
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=Mojirade18&theme=solarized-light" alt="GitHub Streak" />
 
   <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&theme=solarized-light" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&theme=solarized-light" alt="Top Languages" />
 
 </div>
 
