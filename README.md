@@ -5,17 +5,17 @@
 <br/>
 
 <a href="https://github.com/Mojirade18">
-  <img src="https://komarev.com/ghpvc/?username=Mojirade18&label=PROFILE+VIEWS&color=8B5E3C&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mojirade18&label=PROFILE+VIEWS&color=997B70&style=flat-square" alt="Profile views" />
 </a>
 <a href="https://github.com/Mojirade18?tab=followers">
-  <img src="https://img.shields.io/github/followers/Mojirade18?label=FOLLOWERS&style=flat-square&color=6F4E37" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Mojirade18?label=FOLLOWERS&style=flat-square&color=B99588" alt="GitHub followers" />
 </a>
-<img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20SYSTEMS-B9825B?style=flat-square" alt="Embedded Systems" />
-<img src="https://img.shields.io/badge/LOCATION-ILE--IFE%2C%20NIGERIA-8B5E3C?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20SYSTEMS-C9A995?style=flat-square" alt="Embedded Systems" />
+<img src="https://img.shields.io/badge/LOCATION-ILE--IFE%2C%20NIGERIA-997B70?style=flat-square" alt="Location" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=D6A77A&center=true&vCenter=true&width=750&lines=Hello+there!+My+name+is+Adekanmi+Mojirade.;Computer+Engineering+Student+%40+OAU.;Exploring+Embedded+Systems+%26+IoT.;Learning+to+build+at+the+hardware-software+boundary." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=C9A995&center=true&vCenter=true&width=750&lines=Hello+there!+My+name+is+Adekanmi+Mojirade.;Computer+Engineering+Student+%40+OAU.;Exploring+Embedded+Systems+%26+IoT.;Learning+to+build+at+the+hardware-software+boundary." alt="Animated introduction" />
 
 <br/>
 
@@ -23,9 +23,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mojiradeadekanmi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:MOJIRADEOLURANTI@GMAIL.COM"><img src="https://img.shields.io/badge/Email-Contact-B9825B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Mojirade18"><img src="https://img.shields.io/badge/GitHub-Follow-6F4E37?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/mojiradeadekanmi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-997B70?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:MOJIRADEOLURANTI@GMAIL.COM"><img src="https://img.shields.io/badge/Email-Contact-B99588?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Mojirade18"><img src="https://img.shields.io/badge/GitHub-Follow-493630?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -240,13 +240,13 @@ I am building a foundation across computer hardware, software, electronics, digi
 
 <br/><br/>
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=Mojirade18&show_icons=true&hide_border=true&bg_color=2B1D18&title_color=D6A77A&icon_color=B9825B&text_color=E8D5C4&rank_icon=github" alt="GitHub statistics" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Mojirade18&show_icons=true&hide_border=true&bg_color=493630&title_color=C9A995&icon_color=B99588&text_color=E5D4CC&rank_icon=github" alt="GitHub statistics" />
 
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&hide_border=true&bg_color=2B1D18&title_color=D6A77A&text_color=E8D5C4" alt="Most used languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&hide_border=true&bg_color=493630&title_color=C9A995&text_color=E5D4CC" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Mojirade18&hide_border=true&background=2B1D18&ring=D6A77A&fire=B9825B&currStreakLabel=E8D5C4&sideLabels=E8D5C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA18A" alt="GitHub contribution streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Mojirade18&hide_border=true&background=493630&ring=C9A995&fire=B99588&currStreakLabel=E5D4CC&sideLabels=E5D4CC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9A995" alt="GitHub contribution streak" />
 
 </div>
 
@@ -260,9 +260,9 @@ If you're exploring embedded systems, IoT, hardware development, ARM/SoC or open
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mojiradeadekanmi/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:MOJIRADEOLURANTI@GMAIL.COM"><img src="https://img.shields.io/badge/Gmail-Send%20an%20email-B9825B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Mojirade18"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-6F4E37?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/mojiradeadekanmi/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-997B70?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:MOJIRADEOLURANTI@GMAIL.COM"><img src="https://img.shields.io/badge/Gmail-Send%20an%20email-B99588?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Mojirade18"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-493630?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
