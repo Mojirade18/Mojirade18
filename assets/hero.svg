@@ -1,0 +1,100 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#211610"/>
+      <stop offset="1" stop-color="#49301F"/>
+    </linearGradient>
+
+    <linearGradient id="copperFlow" x1="0" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#68452F"/>
+      <stop offset=".25" stop-color="#B8734A"/>
+      <stop offset=".5" stop-color="#E0B17A"/>
+      <stop offset=".75" stop-color="#B8734A"/>
+      <stop offset="1" stop-color="#68452F">
+        <animate attributeName="offset" values="1;.85;1" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1100 0;1100 0;-1100 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="13" height="13" rx="3" fill="#D9C3A5"/>
+    </pattern>
+
+    <mask id="m">
+      <rect width="1200" height="320" fill="black"/>
+      <text x="275" y="183" text-anchor="middle" font-family="Arial Black,Arial" font-size="132" font-weight="900" fill="white">M</text>
+    </mask>
+    <mask id="o">
+      <rect width="1200" height="320" fill="black"/>
+      <text x="385" y="183" text-anchor="middle" font-family="Arial Black,Arial" font-size="132" font-weight="900" fill="white">O</text>
+    </mask>
+    <mask id="j">
+      <rect width="1200" height="320" fill="black"/>
+      <text x="485" y="183" text-anchor="middle" font-family="Arial Black,Arial" font-size="132" font-weight="900" fill="white">J</text>
+    </mask>
+    <mask id="i">
+      <rect width="1200" height="320" fill="black"/>
+      <text x="560" y="183" text-anchor="middle" font-family="Arial Black,Arial" font-size="132" font-weight="900" fill="white">I</text>
+    </mask>
+    <mask id="r">
+      <rect width="1200" height="320" fill="black"/>
+      <text x="650" y="183" text-anchor="middle" font-family="Arial Black,Arial" font-size="132" font-weight="900" fill="white">R</text>
+    </mask>
+    <mask id="a">
+      <rect width="1200" height="320" fill="black"/>
+      <text x="755" y="183" text-anchor="middle" font-family="Arial Black,Arial" font-size="132" font-weight="900" fill="white">A</text>
+    </mask>
+    <mask id="d">
+      <rect width="1200" height="320" fill="black"/>
+      <text x="865" y="183" text-anchor="middle" font-family="Arial Black,Arial" font-size="132" font-weight="900" fill="white">D</text>
+    </mask>
+    <mask id="e">
+      <rect width="1200" height="320" fill="black"/>
+      <text x="970" y="183" text-anchor="middle" font-family="Arial Black,Arial" font-size="132" font-weight="900" fill="white">E</text>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+
+  <!-- Dim contribution grid -->
+  <rect x="65" y="55" width="1070" height="155" fill="url(#grid)" opacity=".12"/>
+
+  <!-- Each letter is formed by tiny contribution squares -->
+  <g fill="url(#grid)" opacity=".95">
+    <rect width="1200" height="220" fill="url(#copperFlow)" mask="url(#m)">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;.3;1" dur="8s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1200" height="220" fill="url(#copperFlow)" mask="url(#o)">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;.3;1" dur="8s" begin="0.45s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1200" height="220" fill="url(#copperFlow)" mask="url(#j)">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;.3;1" dur="8s" begin="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1200" height="220" fill="url(#copperFlow)" mask="url(#i)">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;.3;1" dur="8s" begin="1.35s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1200" height="220" fill="url(#copperFlow)" mask="url(#r)">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;.3;1" dur="8s" begin="1.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1200" height="220" fill="url(#copperFlow)" mask="url(#a)">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;.3;1" dur="8s" begin="2.25s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1200" height="220" fill="url(#copperFlow)" mask="url(#d)">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;.3;1" dur="8s" begin="2.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1200" height="220" fill="url(#copperFlow)" mask="url(#e)">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;.3;1" dur="8s" begin="3.15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="600" y="245" text-anchor="middle" fill="#E0B17A"
+    font-family="Arial,sans-serif" font-size="14" letter-spacing="3">
+    COMPUTER ENGINEERING · EMBEDDED SYSTEMS · IoT
+  </text>
+  <text x="600" y="278" text-anchor="middle" fill="#D9C3A5"
+    font-family="Arial,sans-serif" font-size="14">
+    Bridging hardware and software to build intelligent systems.
+  </text>
+</svg>
