@@ -1,196 +1,232 @@
- 
-<!-- ===================== HERO ===================== -->
+ <div align="center">
 
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mojirade animated contribution grid hero"/>
+<img src="./assets/hero.svg" width="100%" alt="MOJIRADE animated contribution grid hero">
+
+# Hi, I'm Mojirade 👋
+
+### Computer Engineering Student | Embedded Systems & IoT
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=B8734A&center=true&vCenter=true&width=650&lines=Exploring+the+world+of+embedded+systems;Bridging+hardware+and+software;Building+with+Arduino%2C+ESP32+%26+STM32;Exploring+ARM+%2F+SoC+development;Learning%2C+building%2C+and+contributing" alt="Typing SVG">
+
+<p>
+  <strong>Bridging hardware and software to build intelligent systems.</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mojirade18">
-    <img src="https://komarev.com/ghpvc/?username=Mojirade18&style=for-the-badge&color=B8734A&label=PROFILE+VIEWS" alt="Profile views"/>
+<p>
+  <img src="https://img.shields.io/badge/Computer_Engineering-Student-B8734A?style=flat-square">
+  <img src="https://img.shields.io/badge/Obafemi_Awolowo_University-Ile--Ife-49301F?style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=Mojirade18&style=flat-square&color=B8734A&label=Profile+Views">
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mojiradeadekanmi/">
+    <img src="https://img.shields.io/badge/LinkedIn-B8734A?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20SYSTEMS-B8734A?style=for-the-badge" alt="Embedded systems focus"/>
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-ACTIVE-E0B17A?style=for-the-badge" alt="Open source"/>
+  <a href="https://github.com/Mojirade18">
+    <img src="https://img.shields.io/badge/GitHub-49301F?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E0B17A&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Embedded+Systems+%7C+Firmware+%7C+IoT;Exploring+ARM+Architecture+%26+SoC+Design;Building+at+the+Intersection+of+Hardware+%26+Software" alt="Typing introduction"/>
-</p>
+</div>
 
 ---
 
-<!-- ===================== INTRODUCTION ===================== -->
+## 💻 About Me
 
-## `$ whoami`
+I'm a Computer Engineering student at **Obafemi Awolowo University, Nigeria**, interested in the intersection of hardware and software.
 
-Hey! I'm **Mojirade Adekanmi**, a Computer Engineering student at **Obafemi Awolowo University, Nigeria**, interested in understanding how hardware and software come together to build intelligent systems.
+My curiosity lies in understanding how devices work, how microcontrollers interact with the physical world, and how hardware and software come together to solve real problems.
 
-My interests revolve around embedded systems, firmware development, the Internet of Things, and computer architecture. I enjoy working on practical engineering projects, experimenting with hardware platforms, and learning how systems work beneath the surface.
+I'm particularly interested in:
 
-I'm also passionate about open source, collaborative learning, and creating opportunities for more people to explore technology.
+- 🔌 **Embedded Systems:** Exploring microcontrollers, firmware development, and hardware-software integration.
+- 🌐 **Internet of Things:** Building connected systems and exploring communication protocols.
+- 🧠 **ARM & SoC Development:** Learning processor architecture, system-on-chip design, and embedded computing.
+- 🛠️ **Hardware Design:** Exploring circuit simulation, PCB design, and digital systems.
+- 🌱 **Open Source:** Learning in public, contributing to projects, and building with developer communities.
 
-- 🔧 Exploring embedded systems, firmware and hardware-software integration.
-- 🧠 Learning ARM architecture, System-on-Chip design and SystemVerilog.
-- 🌐 Building and experimenting with IoT systems and connected devices.
-- 💻 Contributing to open-source communities and collaborative projects.
-- 🚀 Always learning, building and documenting the process.
-
-**Current direction:** Bridging hardware and software to build intelligent systems.
+I'm continuously learning, experimenting, and turning concepts into practical projects.
 
 ---
 
-<!-- ===================== TECHNICAL ARSENAL ===================== -->
-
-## `$ tech --arsenal`
-
-### Programming & Development
-
-<p>
-  <img src="https://img.shields.io/badge/C-49301F?style=for-the-badge&logo=c&logoColor=E0B17A"/>
-  <img src="https://img.shields.io/badge/C++-49301F?style=for-the-badge&logo=cplusplus&logoColor=E0B17A"/>
-  <img src="https://img.shields.io/badge/Python-49301F?style=for-the-badge&logo=python&logoColor=E0B17A"/>
-  <img src="https://img.shields.io/badge/Arduino-49301F?style=for-the-badge&logo=arduino&logoColor=E0B17A"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-49301F?style=for-the-badge&logoColor=E0B17A"/>
-</p>
-
-### Embedded Systems & Hardware
-
-<p>
-  <img src="https://img.shields.io/badge/ESP32-B8734A?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-B8734A?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ARM%20Architecture-B8734A?style=for-the-badge&logo=arm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FPGA-B8734A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-B8734A?style=for-the-badge&logoColor=white"/>
-</p>
-
-### Communication & Connectivity
-
-<p>
-  <img src="https://img.shields.io/badge/MQTT-68452F?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bluetooth-68452F?style=for-the-badge&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wi--Fi-68452F?style=for-the-badge&logo=wifi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LoRa-68452F?style=for-the-badge&logoColor=white"/>
-</p>
-
-### Engineering Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F0E0CD?style=for-the-badge&logo=git&logoColor=49301F"/>
-  <img src="https://img.shields.io/badge/GitHub-F0E0CD?style=for-the-badge&logo=github&logoColor=49301F"/>
-  <img src="https://img.shields.io/badge/KiCad-F0E0CD?style=for-the-badge&logo=kicad&logoColor=49301F"/>
-  <img src="https://img.shields.io/badge/Proteus-F0E0CD?style=for-the-badge&logoColor=49301F"/>
-  <img src="https://img.shields.io/badge/LTspice-F0E0CD?style=for-the-badge&logoColor=49301F"/>
-  <img src="https://img.shields.io/badge/VS%20Code-F0E0CD?style=for-the-badge&logo=visualstudiocode&logoColor=49301F"/>
-</p>
-
----
-
-<!-- ===================== ENGINEERING PROJECTS ===================== -->
-
-## `$ ls ./engineering-projects`
-
-Projects, experiments and systems I've worked on while exploring embedded systems and computer engineering.
-
-### Embedded Systems & IoT
-
-| Project | Description | Technologies |
-|:---|:---|:---|
-| **RFID Transportation Ticketing System** | An electronic ticketing concept designed to improve the OAU transportation experience by using RFID-based identification instead of paper tickets. | ESP32-S3, RC522, RFID |
-| **Ecoloop** | An environmental monitoring and sustainability project exploring air-quality sensing, pollution prediction and creative approaches to waste management. | MQ135, IoT, Environmental Monitoring |
-| **Arduino Starter Lab** | An open-source beginner-friendly repository featuring practical Arduino experiments and projects for learning embedded systems. | Arduino, C++, Sensors |
-| **Virtual Environmental Monitoring SoC** | An ARM-based simulated monitoring system exploring temperature, humidity and air-quality readings, threshold detection and alerts. | ARM, SoC, GEM5 |
-
-### Hardware & Digital Systems
+## 🧠 Areas of Interest
 
 | Area | What I'm Exploring |
-|:---|:---|
-| **ARM & SoC Development** | ARM architecture, microprocessors, SoC components and hardware-software integration. |
-| **FPGA & Digital Design** | FPGA development, digital logic and introductory SystemVerilog. |
-| **Microcontroller Programming** | Working with Arduino, ESP32 and STM32 development environments. |
-| **Circuit Design** | Circuit simulation, PCB design concepts and electronics prototyping. |
+|---|---|
+| 🔌 Embedded Systems | Microcontrollers, firmware, GPIO, sensors, and hardware-software integration |
+| ⚙️ Microprocessors & SoC | ARM architecture, assembly language, processor systems, and SoC development |
+| 🌐 IoT & Connectivity | MQTT, Bluetooth, LoRa, WLAN, WPAN, and connected devices |
+| 💻 Programming | C, C++, Python, Java, and SystemVerilog |
+| 🔧 Hardware Design | Circuit simulation, PCB design, digital electronics, and FPGA development |
+| ☁️ Cloud & IoT | AWS cloud services and cloud-connected IoT applications |
+| 🤝 Open Source | Git, GitHub, collaborative development, and community building |
 
 ---
 
-<!-- ===================== OPEN SOURCE ===================== -->
+## 🚀 Tech Stack & Tools
 
-## `$ git log --open-source`
+<div align="center">
 
-Open source has become an important part of how I learn, collaborate and grow as an engineer.
+**Programming Languages**
 
-- Participated in **Hacktoberfest 2025**, completing six pull requests.
-- Maintainer for the **SCA OAU LearnLink Hacktoberfest automation** project.
-- Building and maintaining **Arduino Starter Lab**, an open-source learning repository.
-- Interested in contributing to projects that make technology and engineering more accessible.
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/SystemVerilog-49301F?style=for-the-badge">
 
-<p>
-  <a href="https://github.com/Mojirade18">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-49301F?style=for-the-badge&logo=github&logoColor=E0B17A"/>
-  </a>
-</p>
+**Microcontrollers & Embedded Platforms**
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+<img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white">
+<img src="https://img.shields.io/badge/FPGA-49301F?style=for-the-badge">
+
+**Hardware Design & Simulation**
+
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white">
+<img src="https://img.shields.io/badge/Proteus-49301F?style=for-the-badge">
+<img src="https://img.shields.io/badge/LTspice-A10035?style=for-the-badge">
+<img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge">
+
+**Connectivity & IoT**
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white">
+<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
+<img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wi--Fi-0052CC?style=for-the-badge&logo=wifi&logoColor=white">
+
+**Cloud, Development & Collaboration**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+</div>
 
 ---
 
-<!-- ===================== LEADERSHIP ===================== -->
+## 📂 Projects & Things I've Built
 
-## `$ whoami --community`
+### 🔧 [Arduino Starter Lab](https://github.com/Mojirade18/arduino-starter)
 
-I enjoy creating spaces where people can learn, build and collaborate.
+A beginner-friendly collection of Arduino projects designed to explore embedded programming and practical electronics.
 
-| Community | Role |
-|:---|:---|
-| **She Code Africa OAU** | Open Source Lead |
-| **WAAW OAU Chapter** | Chapter Lead |
-| **AWS OAU Student Branch** | Programs and Event Lead |
-| **Huawei ICT Competition** | Campus Ambassador |
+Projects include:
 
-Through these communities, I contribute to technical learning, open-source participation, student engagement and technology-focused initiatives.
+- **LDR-Based LED:** Using light intensity to control an LED.
+- **7-Bit Binary Counter:** Using buttons and LEDs to represent binary values from 0 to 127.
+- **Water Leak Detector:** Exploring sensor-based water detection and alert logic.
+- **Clap Switch:** Experimenting with sound detection and output control.
+
+`Arduino` `C++` `Sensors` `Digital Electronics` `GitHub`
+
+### 🚍 RFID-Based Transport Ticketing System
+
+Exploring an RFID-based ticketing system designed to improve the transport experience within a university environment.
+
+The project uses RFID technology to explore passenger identification and ticket validation as an alternative to paper-based tickets.
+
+**Hardware:** ESP32, RC522 RFID module.
+
+`ESP32` `RFID` `RC522` `Embedded C++` `IoT`
+
+### 🌱 Ecoloop — Smart Environmental Monitoring
+
+An environmental project exploring air-quality monitoring and pollution awareness, alongside creative approaches to waste management.
+
+The project explores sensor-based environmental data collection and the potential use of technology to encourage more sustainable practices.
+
+**Hardware:** ESP32 and MQ135 gas sensor.
+
+`ESP32` `MQ135` `Environmental Monitoring` `IoT`
+
+### 🌍 Virtual Environmental Monitoring SoC
+
+An ARM-based virtual System-on-Chip concept explored through ARM IP Explorer and SoC learning activities.
+
+The concept simulates environmental parameters such as temperature, humidity, and air quality, with threshold-based monitoring and alerts.
+
+`ARM` `SoC` `Embedded Systems` `Virtual Prototyping`
+
+### ⚙️ FPGA & Digital Systems Exploration
+
+Exploring digital logic design and hardware description languages through FPGA laboratory exercises and SystemVerilog practice.
+
+Areas include:
+
+- SystemVerilog data types and variables.
+- Basic digital logic and circuit behaviour.
+- FPGA development using Intel Quartus Prime.
+- Working with switches, LEDs, and seven-segment displays.
+
+`SystemVerilog` `FPGA` `Quartus Prime` `Digital Design`
 
 ---
 
-<!-- ===================== CURRENT INTERESTS ===================== -->
+## 🌐 Open Source & Community
 
-## `$ cat ./currently-exploring`
+I believe technology becomes more accessible when people learn, build, and contribute together.
 
-- ARM-based System-on-Chip development.
-- Embedded C and firmware development.
+My involvement in developer communities has given me opportunities to collaborate, support other learners, and create spaces where more people can participate in technology.
+
+- **She Code Africa OAU — Open Source Lead:** Supporting open-source learning, collaboration, and community contributions.
+- **AWS OAU Student Branch — Programs and Events Lead:** Supporting technical programs and student engagement.
+- **WAAW OAU Chapter — Chapter Lead:** Supporting initiatives that encourage girls and young women to explore STEM.
+- **Hacktoberfest:** Participating in open-source contributions and encouraging collaborative development.
+
+I'm especially interested in initiatives that make engineering, open source, and emerging technologies more accessible to students.
+
+---
+
+## 🎓 Learning & Development
+
+I'm continuously expanding my knowledge through practical projects, technical courses, and hands-on experimentation.
+
+**Areas of learning include:**
+
+- ARM-based microprocessor and System-on-Chip development.
+- Embedded C and C++ programming.
 - SystemVerilog and digital hardware design.
-- Wireless communication protocols and IoT connectivity.
-- Hardware-software co-design.
-- Open-source engineering tools and projects.
+- IoT communication protocols and connectivity.
+- Cloud-based IoT applications with AWS.
+- PCB design and circuit simulation.
+- Hardware-software integration.
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+## 📊 GitHub Statistics
 
-## `$ git stats`
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mojirade18&show_icons=true&hide_border=true&bg_color=211610&title_color=E0B17A&icon_color=B8734A&text_color=D9C3A5&rank_icon=github" alt="Mojirade's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&hide_border=true&bg_color=211610&title_color=E0B17A&text_color=D9C3A5" alt="Top languages"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mojirade18&show_icons=true&hide_border=true&bg_color=211610&title_color=E0B17A&icon_color=B8734A&text_color=D9C3A5&rank_icon=github" alt="GitHub Stats">
 
-<p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mojirade18&hide_border=true&background=211610&stroke=49301F&ring=E0B17A&fire=B8734A&currStreakLabel=E0B17A&sideLabels=D9C3A5&currStreakNum=D9C3A5&sideNums=D9C3A5&dates=9C806A" alt="GitHub contribution streak"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&hide_border=true&bg_color=211610&title_color=E0B17A&text_color=D9C3A5" alt="Top Languages">
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mojirade18&hide_border=true&background=211610&ring=B8734A&fire=E0B17A&currStreakLabel=E0B17A&sideLabels=D9C3A5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9C8069" alt="GitHub Streak">
+
+</div>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+## 📫 Let's Connect
 
-## `$ connect --with-me`
+<div align="center">
 
-I'm always interested in connecting with people working on embedded systems, hardware engineering, IoT, open source and related fields.
+I'm always interested in connecting with people who are passionate about embedded systems, hardware, IoT, open source, and building technology.
 
-<p align="center">
-  <a href="https://github.com/Mojirade18">
-    <img src="https://img.shields.io/badge/GitHub-Mojirade18-49301F?style=for-the-badge&logo=github&logoColor=E0B17A"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mojiradeadekanmi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-B8734A?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<p align="center">
-  <i>Building, breaking, learning, and building again.</i>
-</p>
+<a href="https://github.com/Mojirade18">
+  <img src="https://img.shields.io/badge/GitHub-Follow_my_work-49301F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:211610,50:49301F,100:B8734A&height=100&section=footer" width="100%"/>
-</p>
+<br>
+
+**Keep learning. Keep building. Keep contributing.** ✨
+
+</div>
