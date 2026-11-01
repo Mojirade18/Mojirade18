@@ -39,14 +39,14 @@ My main focus is embedded systems and hardware-software integration. I'm learnin
 
 I enjoy moving between different layers of engineering: writing firmware, interfacing sensors, exploring microcontrollers, experimenting with communication protocols and understanding the architecture behind computing systems.
 
-I'm still growing my engineering experience, and I document much of that process through practical projects, experiments and open-source contributions.
+I'm still growing my engineering experience, and I document much of that process through practical projects, experiments and independent learning.
 
 - 🎓 Computer Engineering undergraduate at OAU.
 - 🔧 Exploring embedded systems, firmware and microcontroller development.
 - ⚙️ Learning ARM architecture, System-on-Chip design and digital logic.
 - 🌐 Interested in IoT, wireless communication and connected devices.
 - 💻 Building with C/C++, Arduino, ESP32, STM32 and other engineering tools.
-- 🌱 Learning in public, building consistently and contributing to communities.
+- 🌱 Learning by building, experimenting and documenting my work.
 
 ---
 
@@ -116,7 +116,6 @@ My projects are organised around the different areas of engineering I'm explorin
 | 1 | **Arduino Starter Lab** | A beginner-friendly collection of Arduino experiments, including LDR-controlled LEDs, a binary counter, a water leak detector simulation and a clap switch |
 | 2 | **OAU Transport RFID Ticketing System** | An RFID-based ticketing concept intended to reduce paper ticket usage in OAU transportation |
 | 3 | **STM32 GPIO Experiments** | Microcontroller programming, GPIO output control, LED blinking and basic STM32 peripheral exploration |
-| 4 | **Sensor Interfacing Experiments** | Working with electronic sensors and understanding how microcontrollers receive and process physical-world data |
 
 **Arduino Starter Lab**
 
@@ -206,30 +205,6 @@ Hands-on learning focused on connecting IoT concepts with cloud services. These 
 
 ---
 
-## 🌍 Open Source & Community
-
-Beyond building technical projects, I'm passionate about creating spaces where people can learn, collaborate and grow in technology.
-
-### Community Leadership
-
-| Community | Role | Contribution |
-|---|---|---|
-| **She Code Africa (SCA), OAU** | Open Source Lead | Supporting open-source learning, contributor engagement and community initiatives |
-| **WAAW, OAU Chapter** | Chapter Lead | Supporting STEM opportunities and initiatives for girls and young women |
-| **AWS OAU Student Branch** | Programs and Events Lead | Supporting the planning and coordination of technical programmes and community events |
-| **Huawei ICT Competition 2026** | Ambassador | Supporting awareness and student participation in the competition |
-| **ChipMango Silicon Foundations** | Mentee | Learning about semiconductor and silicon engineering fundamentals |
-
-### Open Source Contributions
-
-- Participated in **Hacktoberfest 2025**, completing 6 pull requests.
-- Maintained GitHub Actions automation workflows for SCA OAU LearnLink Hacktoberfest 2026.
-- Worked on pull request automation, issue automation, CI checks and contributor workflows.
-- Created Arduino Starter Lab as a practical learning resource for beginners.
-- Participated in open-source community activities and collaborative projects.
-
----
-
 ## 📖 Learning & Development
 
 I'm continuously strengthening my engineering foundation through coursework, technical programmes, practical labs and independent projects.
@@ -261,13 +236,13 @@ I am building a foundation across computer hardware, software, electronics, digi
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mojirade18&bg_color=2B1D18&color=E8D5C4&line=D6A77A&point=B9825B&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mojirade18&theme=github_dark" alt="GitHub contribution profile graph" />
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mojirade18&show_icons=true&hide_border=true&bg_color=2B1D18&title_color=D6A77A&icon_color=B9825B&text_color=E8D5C4&rank_icon=github" alt="GitHub statistics" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Mojirade18&show_icons=true&hide_border=true&bg_color=2B1D18&title_color=D6A77A&icon_color=B9825B&text_color=E8D5C4&rank_icon=github" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&hide_border=true&bg_color=2B1D18&title_color=D6A77A&text_color=E8D5C4" alt="Most used languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mojirade18&layout=compact&hide_border=true&bg_color=2B1D18&title_color=D6A77A&text_color=E8D5C4" alt="Most used languages" />
 
 <br/><br/>
 
@@ -279,7 +254,7 @@ I am building a foundation across computer hardware, software, electronics, digi
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with engineers, developers, students, open-source contributors and communities working on interesting technology.
+I'm open to connecting with engineers, developers, students and people working on interesting technology projects.
 
 If you're exploring embedded systems, IoT, hardware development, ARM/SoC or open source, I'd love to connect and learn from what you're building.
 
